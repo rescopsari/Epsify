@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Epsify">
         <activity
+            android:name=".StudentInfoActivity"
+            android:exported="true" />
+        <activity
             android:name=".StudentGroupActivity"
             android:exported="true" />
 
