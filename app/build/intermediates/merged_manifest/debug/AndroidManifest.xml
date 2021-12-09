@@ -22,6 +22,18 @@
         android:testOnly="true"
         android:theme="@style/Theme.Epsify" >
         <activity
+            android:name="com.example.epsify.AppEpsi"
+            android:exported="false" />
+        <activity
+            android:name="com.example.epsify.ProductAdapter"
+            android:exported="false" />
+        <activity
+            android:name="com.example.epsify.BaseActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.epsify.ProductsActivity"
+            android:exported="false" />
+        <activity
             android:name="com.example.epsify.StudentInfoActivity"
             android:exported="true" />
         <activity
