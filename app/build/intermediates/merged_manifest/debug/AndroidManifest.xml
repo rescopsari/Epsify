@@ -22,6 +22,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Epsify" >
         <activity
+            android:name="com.example.epsify.StudentInfoActivity"
+            android:exported="true" />
+        <activity
             android:name="com.example.epsify.StudentGroupActivity"
             android:exported="true" />
         <activity

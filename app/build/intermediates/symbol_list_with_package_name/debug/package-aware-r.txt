@@ -1790,6 +1790,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable alexandre
 drawable avd_hide_password
 drawable avd_show_password
 drawable btn_checkbox_checked_mtrl
@@ -1814,6 +1815,8 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable jason
+drawable jonathan
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -2046,6 +2049,7 @@ id fixed
 id flip
 id floating
 id forever
+id forname
 id fragment_container_view_tag
 id frost
 id ghost_view
@@ -2053,6 +2057,7 @@ id ghost_view_holder
 id gone
 id graph
 id graph_wrap
+id group
 id group_divider
 id grouping
 id groups
@@ -2095,6 +2100,7 @@ id listMode
 id list_item
 id lottieAnimationView
 id lottie_layer_name
+id mail
 id masked
 id match_constraint
 id match_parent
@@ -2151,6 +2157,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id name
 id navigation_bar_item_icon_view
 id navigation_bar_item_labels_group
 id navigation_bar_item_large_label_view
@@ -2261,6 +2268,8 @@ id staticLayout
 id staticPostLayout
 id stop
 id stretch
+id student_intel
+id student_picture
 id submenuarrow
 id submit_area
 id supportScrollUp
@@ -2320,6 +2329,7 @@ id unchecked
 id uniform
 id unlabeled
 id up
+id url_epsi
 id useLogo
 id vertical_only
 id view_bottom
@@ -2410,6 +2420,7 @@ layout abc_tooltip
 layout activity_main
 layout activity_splash
 layout activity_student_group
+layout activity_student_info
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
