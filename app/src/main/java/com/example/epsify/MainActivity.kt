@@ -6,7 +6,7 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Button
 
-class MainActivity : AppCompatActivity() {
+class MainActivity : ToolbarActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -14,10 +14,8 @@ class MainActivity : AppCompatActivity() {
         val buttonZone2: Button = findViewById(R.id.buttonZone2)
 
         buttonZone1.setOnClickListener(View.OnClickListener{
-            val newIntent = Intent(application, StudentGroupActivity::class.java)
+            val newIntent = Intent(application,StudentGroupActivity::class.java)
             startActivity(newIntent)
         })
-
-
     }
 }

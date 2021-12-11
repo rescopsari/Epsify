@@ -12,9 +12,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Epsify">
         <activity
+            android:name=".ToolbarActivity"
+            android:exported="false" />
+        <activity
             android:name=".StudentGroupActivity"
-            android:exported="true" />
-
+            android:exported="false" />
         <activity
             android:name=".SplashActivity"
             android:exported="true">
@@ -26,9 +28,7 @@
         </activity>
         <activity
             android:name=".MainActivity"
-            android:exported="true">
-
-        </activity>
+            android:exported="false"></activity>
     </application>
 
 </manifest>

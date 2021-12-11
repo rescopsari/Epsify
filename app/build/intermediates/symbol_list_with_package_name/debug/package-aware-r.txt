@@ -1806,6 +1806,7 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable epsi_logo
+drawable ic_baseline_arrow_back_ios_24
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -2087,6 +2088,7 @@ id labeled
 id layout
 id left
 id leftToRight
+id left_icon
 id legacy
 id line1
 id line3
@@ -2322,9 +2324,7 @@ id unlabeled
 id up
 id useLogo
 id vertical_only
-id view_bottom
 id view_offset_helper
-id view_top
 id view_transition
 id view_tree_lifecycle_owner
 id view_tree_saved_state_registry_owner
@@ -2410,6 +2410,7 @@ layout abc_tooltip
 layout activity_main
 layout activity_splash
 layout activity_student_group
+layout activity_toolbar
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

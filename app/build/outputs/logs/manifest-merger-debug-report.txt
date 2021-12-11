@@ -98,34 +98,40 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\resco\.gradle\cach
 		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
 		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:13:9-44
+activity#com.example.epsify.ToolbarActivity
+ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:15:13-44
 activity#com.example.epsify.StudentGroupActivity
-ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:14:9-16:39
+ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:17:9-19:40
 	android:exported
-		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:16:13-36
+		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:19:13-37
 	android:name
-		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:15:13-49
+		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:18:13-49
 activity#com.example.epsify.SplashActivity
-ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:18:9-26:20
+ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:20:9-28:20
 	android:exported
-		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:20:13-36
+		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:22:13-36
 	android:name
-		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:19:13-43
+		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:21:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:21:13-25:29
+ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:22:17-69
+ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:22:25-66
+		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:24:17-77
+ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:24:27-74
+		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:26:27-74
 activity#com.example.epsify.MainActivity
-ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:27:9-31:20
+ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:29:9-31:49
 	android:exported
-		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:29:13-36
+		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:31:13-37
 	android:name
-		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:28:13-41
+		ADDED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml:30:13-41
 uses-sdk
 INJECTED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\resco\AndroidStudioProjects\Epsify\app\src\main\AndroidManifest.xml

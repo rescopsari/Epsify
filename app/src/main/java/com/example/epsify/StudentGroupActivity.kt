@@ -6,7 +6,7 @@ import android.view.View
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 
-class StudentGroupActivity : AppCompatActivity() {
+class StudentGroupActivity : ToolbarActivity() {
     fun <K,V> getKey(hashMap: Map<K,V>, target: V):K{
         return hashMap.filter { target== it.value }.keys.first()
     }
@@ -45,6 +45,8 @@ class StudentGroupActivity : AppCompatActivity() {
                 "group" to "groupe epsify"
             )
         )
+
+        showBtnBack()
 
         buttonStudent1.setOnClickListener(View.OnClickListener {
             val newIntent = Intent(application, StudentGroupActivity::class.java)
