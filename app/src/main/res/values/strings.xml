@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Epsify</string>
+    <string name="linkEpsi"><a href="https://www.epsi.fr/">www.epsi.fr</a></string>
+</resources>
