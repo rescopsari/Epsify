@@ -1,2 +1,0 @@
-com/example/epsify/BuildConfig.java
- com.example.epsify.BuildConfig
