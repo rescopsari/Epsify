@@ -1805,7 +1805,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
-drawable epsi_logo
+drawable ic_baseline_arrow_back_ios_24
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -1814,6 +1814,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable jasonavatar
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -1951,11 +1952,9 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id buttonPanel
-id buttonStudent1
-id buttonStudent2
-id buttonStudent3
 id buttonZone1
 id buttonZone2
+id buttonZone3
 id cache_measures
 id callMeasure
 id cancel_button
@@ -2070,6 +2069,7 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView
 id immediateStop
 id included
 id info
@@ -2087,6 +2087,7 @@ id labeled
 id layout
 id left
 id leftToRight
+id left_icon
 id legacy
 id line1
 id line3
@@ -2289,7 +2290,12 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
 id textView1
+id textView2
+id textView3
+id textView4
+id textView5
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -2322,9 +2328,7 @@ id unlabeled
 id up
 id useLogo
 id vertical_only
-id view_bottom
 id view_offset_helper
-id view_top
 id view_transition
 id view_tree_lifecycle_owner
 id view_tree_saved_state_registry_owner
@@ -2407,9 +2411,11 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_group
 layout activity_main
+layout activity_profile
 layout activity_splash
-layout activity_student_group
+layout activity_toolbar
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2544,6 +2550,7 @@ string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
+string linkEpsi
 string material_clock_display_divider
 string material_clock_toggle_content_description
 string material_hour_selection
@@ -2606,11 +2613,6 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
 string status_bar_notification_info_overflow
-string student1
-string student2
-string student3
-string zone1
-string zone2
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow

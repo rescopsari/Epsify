@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\resco\\AndroidStudioProjects\\Epsify\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-iw\\values-iw.xml",
+            "outputFile": "C:\\Users\\resco\\Epsify\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-iw\\values-iw.xml",
             "map": [
                 {
                     "source": "C:\\Users\\resco\\.gradle\\caches\\transforms-3\\678f8f90516713ab9a21055c8d2ba99f\\transformed\\appcompat-1.4.0\\res\\values-iw\\values-iw.xml",

@@ -1,8 +1,4 @@
 <resources>
     <string name="app_name">Epsify</string>
-    <string name="zone1">Zone1</string>
-    <string name="zone2">Zone2</string>
-    <string name="student1">student1</string>
-    <string name="student2">student2</string>
-    <string name="student3">student3</string>
+    <string name="linkEpsi"><a href="https://www.epsi.fr/">www.epsi.fr</a></string>
 </resources>

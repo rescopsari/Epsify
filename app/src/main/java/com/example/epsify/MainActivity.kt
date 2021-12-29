@@ -10,14 +10,19 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        val buttonZone1: Button = findViewById(R.id.buttonZone1)
-        val buttonZone2: Button = findViewById(R.id.buttonZone2)
 
-        buttonZone1.setOnClickListener(View.OnClickListener{
-            val newIntent = Intent(application, StudentGroupActivity::class.java)
+        val buttonZone1: Button = findViewById(R.id.buttonZone1)
+
+        buttonZone1.setOnClickListener(View.OnClickListener {
+            val newIntent = Intent(application,GroupActivity::class.java)
             startActivity(newIntent)
         })
 
+        val buttonZone2: Button = findViewById(R.id.buttonZone2)
 
+        buttonZone2.setOnClickListener(View.OnClickListener {
+            val newIntent = Intent(application,GroupActivity::class.java)
+            startActivity(newIntent)
+        })
     }
 }

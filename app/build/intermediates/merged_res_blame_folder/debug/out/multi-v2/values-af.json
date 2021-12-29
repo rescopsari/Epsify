@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\resco\\AndroidStudioProjects\\Epsify\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-af\\values-af.xml",
+            "outputFile": "C:\\Users\\resco\\Epsify\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-af\\values-af.xml",
             "map": [
                 {
                     "source": "C:\\Users\\resco\\.gradle\\caches\\transforms-3\\18d14ff6081cdd4d7e524a53938b4251\\transformed\\material-1.4.0\\res\\values-af\\values-af.xml",

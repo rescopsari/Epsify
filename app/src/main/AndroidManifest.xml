@@ -2,8 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.epsify">
 
-    <uses-permission android:name="android.permission.INTERNET" />
-
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -12,20 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Epsify">
         <activity
-            android:name=".AppEpsi"
+            android:name=".ProfileActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".GroupActivity"
             android:exported="false" />
         <activity
-            android:name=".ProductAdapter"
+            android:name=".ToolbarActivity"
             android:exported="false" />
-        <activity
-            android:name=".BaseActivity"
-            android:exported="false" />
-        <activity
-            android:name=".ProductsActivity"
-            android:exported="false" />
-        <activity
-            android:name=".StudentGroupActivity"
-            android:exported="true" />
         <activity
             android:name=".SplashActivity"
             android:exported="true">
@@ -37,7 +33,7 @@
         </activity>
         <activity
             android:name=".MainActivity"
-            android:exported="true" />
+            android:exported="false" />
     </application>
 
 </manifest>
