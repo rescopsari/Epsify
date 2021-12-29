@@ -11,7 +11,7 @@
 9-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:5:5-38:19
+11-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:5:5-37:19
 12        android:allowBackup="true"
 12-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -30,79 +30,75 @@
 21        android:theme="@style/Theme.Epsify" >
 21-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:11:9-44
 22        <activity
-22-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:12:9-19:20
+22-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:12:9-18:20
 23            android:name="com.example.epsify.ProfileActivity"
 23-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:13:13-44
 24            android:exported="true" >
 24-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:14:13-36
 25            <intent-filter>
-25-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:15:13-18:29
+25-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:15:13-17:29
 26                <action android:name="android.intent.action.MAIN" />
 26-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:16:17-69
 26-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:16:25-66
-27
-28                <category android:name="android.intent.category.LAUNCHER" />
-28-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:17:17-77
-28-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:17:27-74
-29            </intent-filter>
-30        </activity>
-31        <activity
-31-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:20:9-22:40
-32            android:name="com.example.epsify.GroupActivity"
-32-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:21:13-42
-33            android:exported="false" />
-33-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:22:13-37
-34        <activity
-34-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:23:9-25:40
-35            android:name="com.example.epsify.ToolbarActivity"
-35-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:24:13-44
-36            android:exported="false" />
-36-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:25:13-37
-37        <activity
-37-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:26:9-34:20
-38            android:name="com.example.epsify.SplashActivity"
-38-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:27:13-43
-39            android:exported="true" >
-39-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:28:13-36
-40            <intent-filter>
-40-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:15:13-18:29
-41                <action android:name="android.intent.action.MAIN" />
-41-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:16:17-69
-41-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:16:25-66
-42
-43                <category android:name="android.intent.category.LAUNCHER" />
-43-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:17:17-77
-43-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:17:27-74
-44            </intent-filter>
-45        </activity>
-46        <activity
-46-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:35:9-37:40
-47            android:name="com.example.epsify.MainActivity"
-47-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:36:13-41
-48            android:exported="false" />
-48-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:37:13-37
-49
-50        <provider
-50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\resco\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-51            android:name="androidx.startup.InitializationProvider"
-51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\resco\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
-52            android:authorities="com.example.epsify.androidx-startup"
-52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\resco\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
-53            android:exported="false" >
-53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\resco\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
-54            <meta-data
-54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\resco\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-55                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-55-->[androidx.emoji2:emoji2:1.0.0] C:\Users\resco\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
-56                android:value="androidx.startup" />
-56-->[androidx.emoji2:emoji2:1.0.0] C:\Users\resco\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
-57            <meta-data
-57-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\resco\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-58                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-58-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\resco\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-59                android:value="androidx.startup" />
-59-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\resco\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-60        </provider>
-61    </application>
-62
-63</manifest>
+27            </intent-filter>
+28        </activity>
+29        <activity
+29-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:19:9-21:40
+30            android:name="com.example.epsify.GroupActivity"
+30-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:20:13-42
+31            android:exported="false" />
+31-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:21:13-37
+32        <activity
+32-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:22:9-24:40
+33            android:name="com.example.epsify.ToolbarActivity"
+33-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:23:13-44
+34            android:exported="false" />
+34-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:24:13-37
+35        <activity
+35-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:25:9-33:20
+36            android:name="com.example.epsify.SplashActivity"
+36-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:26:13-43
+37            android:exported="true" >
+37-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:27:13-36
+38            <intent-filter>
+38-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:28:13-32:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:16:17-69
+39-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:16:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:31:17-77
+41-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:31:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:34:9-36:40
+45            android:name="com.example.epsify.MainActivity"
+45-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:35:13-41
+46            android:exported="false" />
+46-->C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:36:13-37
+47
+48        <provider
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\resco\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+49            android:name="androidx.startup.InitializationProvider"
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\resco\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+50            android:authorities="com.example.epsify.androidx-startup"
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\resco\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+51            android:exported="false" >
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\resco\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+52            <meta-data
+52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\resco\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+53                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\resco\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+54                android:value="androidx.startup" />
+54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\resco\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+55            <meta-data
+55-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\resco\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+56                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\resco\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+57                android:value="androidx.startup" />
+57-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\resco\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+58        </provider>
+59    </application>
+60
+61</manifest>

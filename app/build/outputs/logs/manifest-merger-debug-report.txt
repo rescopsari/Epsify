@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:2:1-40:12
+ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:2:1-39:12
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\resco\.gradle\caches\transforms-3\edeb02fb4cefd454699890f987ffc29f\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\resco\.gradle\caches\transforms-3\18d14ff6081cdd4d7e524a53938b4251\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\resco\.gradle\caches\transforms-3\408aa2c6bc6d127e4ffa32f46b3d735b\transformed\constraintlayout-2.1.2\AndroidManifest.xml:2:1-11:12
@@ -45,25 +45,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\resco\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\resco\.gradle\caches\transforms-3\a3069b0cb7bf77d0867ce0b7cd7f4984\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\resco\.gradle\caches\transforms-3\084d9626b7e6e1bb6f4b7736011c1b83\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\resco\.gradle\caches\transforms-3\c834ac66386d7ab1cc0524445ed4065d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:2:1-39:12
 	package
 		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:2:1-40:12
+		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:2:1-39:12
 		INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:2:1-40:12
+		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:2:1-39:12
 		INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:5:5-38:19
+ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:5:5-37:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\resco\.gradle\caches\transforms-3\18d14ff6081cdd4d7e524a53938b4251\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\resco\.gradle\caches\transforms-3\18d14ff6081cdd4d7e524a53938b4251\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\resco\.gradle\caches\transforms-3\408aa2c6bc6d127e4ffa32f46b3d735b\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
@@ -95,45 +95,47 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\resco\.gradle\cach
 	android:theme
 		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:11:9-44
 activity#com.example.epsify.ProfileActivity
-ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:12:9-19:20
+ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:exported
 		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:14:13-36
 	android:name
 		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:13:13-44
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:15:13-18:29
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:15:13-17:29
 action#android.intent.action.MAIN
 ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
 		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:16:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:17:17-77
-	android:name
-		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:17:27-74
 activity#com.example.epsify.GroupActivity
-ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:20:9-22:40
+ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:19:9-21:40
 	android:exported
-		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:22:13-37
+		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:21:13-42
+		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:20:13-42
 activity#com.example.epsify.ToolbarActivity
-ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:23:9-25:40
+ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:22:9-24:40
 	android:exported
-		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:25:13-37
+		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:24:13-37
 	android:name
-		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:24:13-44
+		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:23:13-44
 activity#com.example.epsify.SplashActivity
-ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:26:9-34:20
+ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:25:9-33:20
 	android:exported
-		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:28:13-36
+		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:27:13-36
 	android:name
-		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:27:13-43
+		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:26:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:28:13-32:29
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:31:27-74
 activity#com.example.epsify.MainActivity
-ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:35:9-37:40
+ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:34:9-36:40
 	android:exported
-		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:37:13-37
+		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:36:13-37
 	android:name
-		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:36:13-41
+		ADDED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml:35:13-41
 uses-sdk
 INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\resco\Epsify\app\src\main\AndroidManifest.xml
