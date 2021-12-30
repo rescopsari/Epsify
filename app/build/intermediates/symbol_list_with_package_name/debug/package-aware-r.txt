@@ -2193,6 +2193,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id recyclerViewProducts
 id relativeLayout
 id restart
 id reverse
@@ -2296,6 +2297,7 @@ id textView2
 id textView3
 id textView4
 id textView5
+id textViewTitle
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -2413,9 +2415,11 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_group
 layout activity_main
+layout activity_products
 layout activity_profile
 layout activity_splash
 layout activity_toolbar
+layout cell_products
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

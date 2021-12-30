@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         val buttonZone2: Button = findViewById(R.id.buttonZone2)
 
         buttonZone2.setOnClickListener(View.OnClickListener {
-            val newIntent = Intent(application,GroupActivity::class.java)
+            val newIntent = Intent(application,ProductsActivity::class.java)
             startActivity(newIntent)
         })
     }
