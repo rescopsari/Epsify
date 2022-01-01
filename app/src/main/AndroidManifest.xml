@@ -2,7 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.epsify">
 
-
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -13,14 +12,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Epsify">
         <activity
-            android:name=".ProductsActivity"
+            android:name=".FromagesActivity"
             android:exported="false" />
-<!--        <activity-->
-<!--            android:name=".ProductActivity"-->
-<!--            android:exported="false" />-->
-<!--        <activity-->
-<!--            android:name=".ProductAdapter"-->
-<!--            android:exported="false" />-->
+        <activity
+            android:name=".BoissonsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RayonsActivity"
+            android:exported="false" /> <!-- <activity -->
+        <!-- android:name=".ProductActivity" -->
+        <!-- android:exported="false" /> -->
+        <!-- <activity -->
+        <!-- android:name=".ProductAdapter" -->
+        <!-- android:exported="false" /> -->
         <activity
             android:name=".ProfileActivity"
             android:exported="true">

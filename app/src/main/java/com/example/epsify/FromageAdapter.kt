@@ -1,4 +1,4 @@
-package com.example.epsify;
+package com.example.epsify
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -6,24 +6,23 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import androidx.recyclerview.widget.RecyclerView;
 
-class ProductsAdapter(private val products: ArrayList<Products>): RecyclerView.Adapter<ProductsAdapter.ViewHolder>(){
+class FromageAdapter(private val fromages: ArrayList<Fromage>): RecyclerView.Adapter<FromageAdapter.ViewHolder>(){
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        val products = products.get(position)
-        holder.textViewTitle.text=products.title
+        val fromage = fromages.get(position)
+        holder.textViewTitle.text=fromage.name
     }
 
     class ViewHolder (view: View) : RecyclerView.ViewHolder(view){
-        val textViewTitle = view.findViewById<TextView>(R.id.textViewTitle)
+        val textViewTitle = view.findViewById<TextView>(R.id.textViewFromageName)
     }
 
     override fun onCreateViewHolder(viewGroup: ViewGroup, viewType: Int): ViewHolder {
-        val view: View = LayoutInflater.from(viewGroup.context).inflate(R.layout.cell_products, viewGroup, false)
+        val view: View = LayoutInflater.from(viewGroup.context).inflate(R.layout.cell_fromages, viewGroup, false)
         return ViewHolder(view)
     }
 
     override fun getItemCount(): Int {
-        return products.size
+        return fromages.size
     }
-
 }

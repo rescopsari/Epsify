@@ -3,12 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/jonat/Desktop/projet-android-exam/app/src/main/res/layout/activity_boissons.xml" value="0.1" />
+        <entry key="..\:/Users/jonat/Desktop/projet-android-exam/app/src/main/res/layout/activity_fromages.xml" value="0.14375" />
         <entry key="..\:/Users/jonat/Desktop/projet-android-exam/app/src/main/res/layout/activity_main.xml" value="0.14375" />
         <entry key="..\:/Users/jonat/Desktop/projet-android-exam/app/src/main/res/layout/activity_product.xml" value="0.14375" />
         <entry key="..\:/Users/jonat/Desktop/projet-android-exam/app/src/main/res/layout/activity_products.xml" value="0.264" />
         <entry key="..\:/Users/jonat/Desktop/projet-android-exam/app/src/main/res/layout/activity_rayons.xml" value="0.14375" />
+        <entry key="..\:/Users/jonat/Desktop/projet-android-exam/app/src/main/res/layout/activity_student_info.xml" value="0.14375" />
+        <entry key="..\:/Users/jonat/Desktop/projet-android-exam/app/src/main/res/layout/cell_boissons.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/jonat/Desktop/projet-android-exam/app/src/main/res/layout/cell_fromages.xml" value="0.14375" />
         <entry key="..\:/Users/jonat/Desktop/projet-android-exam/app/src/main/res/layout/cell_product.xml" value="0.14375" />
         <entry key="..\:/Users/jonat/Desktop/projet-android-exam/app/src/main/res/layout/cell_products.xml" value="0.14375" />
+        <entry key="..\:/Users/jonat/Desktop/projet-android-exam/app/src/main/res/layout/cell_rayons.xml" value="0.1" />
         <entry key="..\:/Users/resco/Epsify/app/src/main/res/layout/activity_group.xml" value="0.36730072463768115" />
         <entry key="..\:/Users/resco/Epsify/app/src/main/res/layout/activity_main.xml" value="0.36730072463768115" />
         <entry key="..\:/Users/resco/Epsify/app/src/main/res/layout/activity_profile.xml" value="0.36730072463768115" />

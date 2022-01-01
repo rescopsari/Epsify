@@ -9,6 +9,8 @@
         android:targetSdkVersion="31" />
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Optional permission for Analytics to run. -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
 
     <application
         android:allowBackup="true"
@@ -19,11 +21,17 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/Theme.Epsify" >
         <activity
-            android:name="com.example.epsify.ProductsActivity"
+            android:name="com.example.epsify.FromagesActivity"
             android:exported="false" />
-        <!-- <activity -->
+        <activity
+            android:name="com.example.epsify.BoissonsActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.epsify.RayonsActivity"
+            android:exported="false" /> <!-- <activity -->
         <!-- android:name=".ProductActivity" -->
         <!-- android:exported="false" /> -->
         <!-- <activity -->
@@ -36,6 +44,9 @@
                 <action android:name="android.intent.action.MAIN" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.epsify.StudentInfoActivity"
+            android:exported="true" />
         <activity
             android:name="com.example.epsify.GroupActivity"
             android:exported="false" />
@@ -59,6 +70,16 @@
             android:name="com.squareup.picasso.PicassoProvider"
             android:authorities="com.example.epsify.com.squareup.picasso"
             android:exported="false" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
         <provider
             android:name="androidx.startup.InitializationProvider"
             android:authorities="com.example.epsify.androidx-startup"

@@ -4,6 +4,14 @@
         "source": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
+        "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_student_info.xml.flat",
+        "source": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\src\\main\\res\\layout\\activity_student_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\layout_cell_rayons.xml.flat",
+        "source": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\src\\main\\res\\layout\\cell_rayons.xml"
+    },
+    {
         "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
@@ -16,12 +24,20 @@
         "source": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\src\\main\\res\\layout\\activity_group.xml"
     },
     {
+        "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\drawable_alexandreavatar.png.flat",
+        "source": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\src\\main\\res\\drawable\\alexandreavatar.png"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_boissons.xml.flat",
+        "source": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\src\\main\\res\\layout\\activity_boissons.xml"
+    },
+    {
         "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_profile.xml.flat",
         "source": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\src\\main\\res\\layout\\activity_profile.xml"
     },
     {
-        "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_products.xml.flat",
-        "source": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\src\\main\\res\\layout\\activity_products.xml"
+        "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\drawable_jonathanavatar.png.flat",
+        "source": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\src\\main\\res\\drawable\\jonathanavatar.png"
     },
     {
         "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\raw_grocery.json.flat",
@@ -34,6 +50,14 @@
     {
         "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_arrow_back_ios_24.xml.flat",
         "source": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\layout_cell_fromages.xml.flat",
+        "source": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\src\\main\\res\\layout\\cell_fromages.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\layout_cell_boissons.xml.flat",
+        "source": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\src\\main\\res\\layout\\cell_boissons.xml"
     },
     {
         "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
@@ -56,12 +80,12 @@
         "source": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\layout_cell_products.xml.flat",
-        "source": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\src\\main\\res\\layout\\cell_products.xml"
-    },
-    {
         "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_fromages.xml.flat",
+        "source": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\src\\main\\res\\layout\\activity_fromages.xml"
     },
     {
         "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_splash.xml.flat",
@@ -82,6 +106,10 @@
     {
         "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_rayons.xml.flat",
+        "source": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\src\\main\\res\\layout\\activity_rayons.xml"
     },
     {
         "merged": "C:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_toolbar.xml.flat",
