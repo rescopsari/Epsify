@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:2:1-58:12
-INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:2:1-58:12
-INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:2:1-58:12
-INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:2:1-58:12
+ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:2:1-66:12
 MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\jonat\.gradle\caches\transforms-3\edeb02fb4cefd454699890f987ffc29f\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\jonat\.gradle\caches\transforms-3\18d14ff6081cdd4d7e524a53938b4251\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\jonat\.gradle\caches\transforms-3\408aa2c6bc6d127e4ffa32f46b3d735b\transformed\constraintlayout-2.1.2\AndroidManifest.xml:2:1-11:12
@@ -53,20 +53,20 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\jonat\.gradle\ca
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\jonat\.gradle\caches\transforms-3\a3069b0cb7bf77d0867ce0b7cd7f4984\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\jonat\.gradle\caches\transforms-3\084d9626b7e6e1bb6f4b7736011c1b83\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\jonat\.gradle\caches\transforms-3\c834ac66386d7ab1cc0524445ed4065d\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:2:1-58:12
-INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:2:1-58:12
-INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:2:1-66:12
 	package
 		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:2:1-58:12
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:2:1-66:12
 		INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:2:1-58:12
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:2:1-66:12
 		INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:2:11-69
@@ -77,7 +77,7 @@ MERGED from [com.google.android.gms:play-services-analytics-impl:17.0.0] C:\User
 	android:name
 		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:7:5-56:19
+ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:7:5-64:19
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\jonat\.gradle\caches\transforms-3\18d14ff6081cdd4d7e524a53938b4251\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\jonat\.gradle\caches\transforms-3\18d14ff6081cdd4d7e524a53938b4251\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\jonat\.gradle\caches\transforms-3\408aa2c6bc6d127e4ffa32f46b3d735b\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
@@ -122,72 +122,84 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\jonat\.gradle\cach
 		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
 		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:13:9-44
-activity#com.example.epsify.FromagesActivity
+activity#com.example.epsify.SaucesActivity
 ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:14:9-16:40
 	android:exported
 		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:16:13-37
 	android:name
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:15:13-45
-activity#com.example.epsify.BoissonsActivity
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:15:13-43
+activity#com.example.epsify.SurgeleActivity
 ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:17:9-19:40
 	android:exported
 		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:19:13-37
 	android:name
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:18:13-45
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:18:13-44
+activity#com.example.epsify.FromagesActivity
+ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:23:13-45
+activity#com.example.epsify.ProductsActivity
+ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:26:13-45
 activity#com.example.epsify.RayonsActivity
-ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:20:9-22:40
+ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:28:9-30:40
 	android:exported
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:22:13-37
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:21:13-43
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:29:13-43
 activity#com.example.epsify.ProfileActivity
-ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:28:9-34:20
+ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:36:9-42:20
 	android:exported
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:30:13-36
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:38:13-36
 	android:name
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:29:13-44
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:37:13-44
 intent-filter#action:name:android.intent.action.MAIN
-ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:31:13-33:29
+ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:39:13-41:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:32:17-69
+ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:40:17-69
 	android:name
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:32:25-66
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:40:25-66
 activity#com.example.epsify.StudentInfoActivity
-ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:35:9-37:39
+ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:43:9-45:39
 	android:exported
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:37:13-36
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:45:13-36
 	android:name
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:36:13-48
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:44:13-48
 activity#com.example.epsify.GroupActivity
-ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:38:9-40:40
+ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:46:9-48:40
 	android:exported
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:40:13-37
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:48:13-37
 	android:name
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:39:13-42
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:47:13-42
 activity#com.example.epsify.ToolbarActivity
-ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:41:9-43:40
+ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:49:9-51:40
 	android:exported
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:43:13-37
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:51:13-37
 	android:name
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:42:13-44
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:50:13-44
 activity#com.example.epsify.SplashActivity
-ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:44:9-52:20
+ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:52:9-60:20
 	android:exported
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:46:13-36
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:54:13-36
 	android:name
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:45:13-43
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:53:13-43
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:47:13-51:29
+ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:55:13-59:29
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:50:17-77
+ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:58:17-77
 	android:name
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:50:27-74
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:58:27-74
 activity#com.example.epsify.MainActivity
-ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:53:9-55:40
+ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:61:9-63:40
 	android:exported
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:55:13-37
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:63:13-37
 	android:name
-		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:54:13-41
+		ADDED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:62:13-41
 uses-sdk
 INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml

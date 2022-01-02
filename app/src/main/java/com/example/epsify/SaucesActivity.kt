@@ -11,21 +11,21 @@ import okhttp3.*
 import org.json.JSONObject
 import java.io.IOException
 
-class BoissonsActivity : ToolbarActivity() {
+class SaucesActivity : ToolbarActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_boissons)
+        setContentView(R.layout.activity_sauce)
         showBtnBack()
 
-        val boissons = arrayListOf<Boisson>()
-        val recyclerView = findViewById<RecyclerView>(R.id.recyclerViewBoissons)
+        val sauces = arrayListOf<Sauce>()
+        val recyclerView = findViewById<RecyclerView>(R.id.recyclerViewSauces)
         recyclerView.layoutManager = LinearLayoutManager(this)
-        val boissonAdapter = BoissonAdapter(boissons)
-        recyclerView.adapter = boissonAdapter
+        val sauceAdapter = SauceAdapter(sauces)
+        recyclerView.adapter = sauceAdapter
 
 
         val okHttpClient: OkHttpClient = OkHttpClient.Builder().build()
-        val mRequestURL ="https://djemam.com/epsi/boissons.json"
+        val mRequestURL ="https://djemam.com/epsi/sauce.json"
         val request = Request.Builder()
             .url(mRequestURL)
             .get()
@@ -47,21 +47,21 @@ class BoissonsActivity : ToolbarActivity() {
                     val jsArray =jsOb.getJSONArray("items")
 
                     for(i in 0 until jsArray.length()){
-                        val jsBoisson = jsArray.getJSONObject(i)
-                        val name =jsBoisson.optString("name","")
-                        val description = jsBoisson.optString("description", "")
-                        val picture_url = jsBoisson.optString("picture_url", "")
-                        val boisson = Boisson(name, description, picture_url)
-                        boissons.add(boisson)
+                        val jsProduct = jsArray.getJSONObject(i)
+                        val name =jsProduct.optString("name","")
+                        val description = jsProduct.optString("description", "")
+                        val picture_url = jsProduct.optString("picture_url", "")
+                        val sauce = Sauce(name, description, picture_url)
+                        sauces.add(sauce)
                     }
                     runOnUiThread(Runnable {
-                        boissonAdapter.notifyDataSetChanged()
+                        sauceAdapter.notifyDataSetChanged()
                     })
                     Handler(Looper.getMainLooper()).post(Runnable {
-                        boissonAdapter.notifyDataSetChanged()
+                        sauceAdapter.notifyDataSetChanged()
                     })
                     Log.d("WS",data)
-                    Log.d("Student","${boissons.size}")
+                    Log.d("Student","${sauces.size}")
                 }
             }
         })

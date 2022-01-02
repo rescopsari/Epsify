@@ -21,7 +21,7 @@
 13-->[com.google.android.gms:play-services-analytics-impl:17.0.0] C:\Users\jonat\.gradle\caches\transforms-3\0b725473aa4be0a789bd8cb31e468f10\transformed\jetified-play-services-analytics-impl-17.0.0\AndroidManifest.xml:27:22-65
 14
 15    <application
-15-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:7:5-56:19
+15-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:7:5-64:19
 16        android:allowBackup="true"
 16-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:8:9-35
 17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -41,128 +41,142 @@
 25-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:13:9-44
 26        <activity
 26-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:14:9-16:40
-27            android:name="com.example.epsify.FromagesActivity"
-27-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:15:13-45
+27            android:name="com.example.epsify.SaucesActivity"
+27-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:15:13-43
 28            android:exported="false" />
 28-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:16:13-37
 29        <activity
 29-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:17:9-19:40
-30            android:name="com.example.epsify.BoissonsActivity"
-30-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:18:13-45
-31            android:exported="false" />
+30            android:name="com.example.epsify.SurgeleActivity"
+30-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:18:13-44
+31            android:exported="false" /> <!-- <activity -->
 31-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:19:13-37
-32        <activity
-32-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:20:9-22:40
-33            android:name="com.example.epsify.RayonsActivity"
-33-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:21:13-43
-34            android:exported="false" /> <!-- <activity -->
-34-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:22:13-37
-35        <!-- android:name=".ProductActivity" -->
-36        <!-- android:exported="false" /> -->
-37        <!-- <activity -->
-38        <!-- android:name=".ProductAdapter" -->
-39        <!-- android:exported="false" /> -->
+32        <!-- android:name=".ProductActivity" -->
+33        <!-- android:exported="false" /> -->
+34        <activity
+34-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:22:9-24:40
+35            android:name="com.example.epsify.FromagesActivity"
+35-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:23:13-45
+36            android:exported="false" />
+36-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:24:13-37
+37        <activity
+37-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:25:9-27:40
+38            android:name="com.example.epsify.ProductsActivity"
+38-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:26:13-45
+39            android:exported="false" />
+39-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:27:13-37
 40        <activity
-40-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:28:9-34:20
-41            android:name="com.example.epsify.ProfileActivity"
-41-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:29:13-44
-42            android:exported="true" >
-42-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:30:13-36
-43            <intent-filter>
-43-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:31:13-33:29
-44                <action android:name="android.intent.action.MAIN" />
-44-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:32:17-69
-44-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:32:25-66
-45            </intent-filter>
-46        </activity>
-47        <activity
-47-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:35:9-37:39
-48            android:name="com.example.epsify.StudentInfoActivity"
-48-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:36:13-48
-49            android:exported="true" />
-49-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:37:13-36
-50        <activity
-50-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:38:9-40:40
-51            android:name="com.example.epsify.GroupActivity"
-51-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:39:13-42
-52            android:exported="false" />
-52-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:40:13-37
-53        <activity
-53-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:41:9-43:40
-54            android:name="com.example.epsify.ToolbarActivity"
-54-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:42:13-44
-55            android:exported="false" />
-55-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:43:13-37
-56        <activity
-56-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:44:9-52:20
-57            android:name="com.example.epsify.SplashActivity"
-57-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:45:13-43
-58            android:exported="true" >
-58-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:46:13-36
-59            <intent-filter>
-59-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:47:13-51:29
-60                <action android:name="android.intent.action.MAIN" />
-60-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:32:17-69
-60-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:32:25-66
-61
-62                <category android:name="android.intent.category.LAUNCHER" />
-62-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:50:17-77
-62-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:50:27-74
-63            </intent-filter>
-64        </activity>
-65        <activity
-65-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:53:9-55:40
-66            android:name="com.example.epsify.MainActivity"
-66-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:54:13-41
-67            android:exported="false" />
-67-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:55:13-37
-68
-69        <provider
-69-->[com.squareup.picasso:picasso:2.71828] C:\Users\jonat\.gradle\caches\transforms-3\c67f688ba74c3e43209fe151e9e56ddf\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
-70            android:name="com.squareup.picasso.PicassoProvider"
-70-->[com.squareup.picasso:picasso:2.71828] C:\Users\jonat\.gradle\caches\transforms-3\c67f688ba74c3e43209fe151e9e56ddf\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
-71            android:authorities="com.example.epsify.com.squareup.picasso"
-71-->[com.squareup.picasso:picasso:2.71828] C:\Users\jonat\.gradle\caches\transforms-3\c67f688ba74c3e43209fe151e9e56ddf\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
-72            android:exported="false" />
-72-->[com.squareup.picasso:picasso:2.71828] C:\Users\jonat\.gradle\caches\transforms-3\c67f688ba74c3e43209fe151e9e56ddf\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
-73
-74        <activity
-74-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\jonat\.gradle\caches\transforms-3\fc4de49aaa5e1e9725999fd40e229a8d\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
-75            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-75-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\jonat\.gradle\caches\transforms-3\fc4de49aaa5e1e9725999fd40e229a8d\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
-76            android:exported="false"
-76-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\jonat\.gradle\caches\transforms-3\fc4de49aaa5e1e9725999fd40e229a8d\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
-77            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-77-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\jonat\.gradle\caches\transforms-3\fc4de49aaa5e1e9725999fd40e229a8d\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
-78
-79        <meta-data
-79-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\jonat\.gradle\caches\transforms-3\b589972bb9ba283eacffd55b47fa413e\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
-80            android:name="com.google.android.gms.version"
-80-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\jonat\.gradle\caches\transforms-3\b589972bb9ba283eacffd55b47fa413e\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
-81            android:value="@integer/google_play_services_version" />
-81-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\jonat\.gradle\caches\transforms-3\b589972bb9ba283eacffd55b47fa413e\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
-82
-83        <provider
-83-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jonat\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-84            android:name="androidx.startup.InitializationProvider"
-84-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jonat\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
-85            android:authorities="com.example.epsify.androidx-startup"
-85-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jonat\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
-86            android:exported="false" >
-86-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jonat\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
-87            <meta-data
-87-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jonat\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-88                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-88-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jonat\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
-89                android:value="androidx.startup" />
-89-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jonat\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
-90            <meta-data
-90-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jonat\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-91                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-91-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jonat\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-92                android:value="androidx.startup" />
-92-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jonat\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-93        </provider>
-94    </application>
-95
-96</manifest>
+40-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:28:9-30:40
+41            android:name="com.example.epsify.RayonsActivity"
+41-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:29:13-43
+42            android:exported="false" /> <!-- <activity -->
+42-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:30:13-37
+43        <!-- android:name=".ProductActivity" -->
+44        <!-- android:exported="false" /> -->
+45        <!-- <activity -->
+46        <!-- android:name=".ProductAdapter" -->
+47        <!-- android:exported="false" /> -->
+48        <activity
+48-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:36:9-42:20
+49            android:name="com.example.epsify.ProfileActivity"
+49-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:37:13-44
+50            android:exported="true" >
+50-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:38:13-36
+51            <intent-filter>
+51-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:39:13-41:29
+52                <action android:name="android.intent.action.MAIN" />
+52-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:40:17-69
+52-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:40:25-66
+53            </intent-filter>
+54        </activity>
+55        <activity
+55-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:43:9-45:39
+56            android:name="com.example.epsify.StudentInfoActivity"
+56-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:44:13-48
+57            android:exported="true" />
+57-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:45:13-36
+58        <activity
+58-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:46:9-48:40
+59            android:name="com.example.epsify.GroupActivity"
+59-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:47:13-42
+60            android:exported="false" />
+60-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:48:13-37
+61        <activity
+61-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:49:9-51:40
+62            android:name="com.example.epsify.ToolbarActivity"
+62-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:50:13-44
+63            android:exported="false" />
+63-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:51:13-37
+64        <activity
+64-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:52:9-60:20
+65            android:name="com.example.epsify.SplashActivity"
+65-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:53:13-43
+66            android:exported="true" >
+66-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:54:13-36
+67            <intent-filter>
+67-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:55:13-59:29
+68                <action android:name="android.intent.action.MAIN" />
+68-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:40:17-69
+68-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:40:25-66
+69
+70                <category android:name="android.intent.category.LAUNCHER" />
+70-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:58:17-77
+70-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:58:27-74
+71            </intent-filter>
+72        </activity>
+73        <activity
+73-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:61:9-63:40
+74            android:name="com.example.epsify.MainActivity"
+74-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:62:13-41
+75            android:exported="false" />
+75-->C:\Users\jonat\Desktop\projet-android-exam\app\src\main\AndroidManifest.xml:63:13-37
+76
+77        <provider
+77-->[com.squareup.picasso:picasso:2.71828] C:\Users\jonat\.gradle\caches\transforms-3\c67f688ba74c3e43209fe151e9e56ddf\transformed\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+78            android:name="com.squareup.picasso.PicassoProvider"
+78-->[com.squareup.picasso:picasso:2.71828] C:\Users\jonat\.gradle\caches\transforms-3\c67f688ba74c3e43209fe151e9e56ddf\transformed\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+79            android:authorities="com.example.epsify.com.squareup.picasso"
+79-->[com.squareup.picasso:picasso:2.71828] C:\Users\jonat\.gradle\caches\transforms-3\c67f688ba74c3e43209fe151e9e56ddf\transformed\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+80            android:exported="false" />
+80-->[com.squareup.picasso:picasso:2.71828] C:\Users\jonat\.gradle\caches\transforms-3\c67f688ba74c3e43209fe151e9e56ddf\transformed\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+81
+82        <activity
+82-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\jonat\.gradle\caches\transforms-3\fc4de49aaa5e1e9725999fd40e229a8d\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+83            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+83-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\jonat\.gradle\caches\transforms-3\fc4de49aaa5e1e9725999fd40e229a8d\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+84            android:exported="false"
+84-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\jonat\.gradle\caches\transforms-3\fc4de49aaa5e1e9725999fd40e229a8d\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+85            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+85-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\jonat\.gradle\caches\transforms-3\fc4de49aaa5e1e9725999fd40e229a8d\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+86
+87        <meta-data
+87-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\jonat\.gradle\caches\transforms-3\b589972bb9ba283eacffd55b47fa413e\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+88            android:name="com.google.android.gms.version"
+88-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\jonat\.gradle\caches\transforms-3\b589972bb9ba283eacffd55b47fa413e\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+89            android:value="@integer/google_play_services_version" />
+89-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\jonat\.gradle\caches\transforms-3\b589972bb9ba283eacffd55b47fa413e\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+90
+91        <provider
+91-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jonat\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+92            android:name="androidx.startup.InitializationProvider"
+92-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jonat\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+93            android:authorities="com.example.epsify.androidx-startup"
+93-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jonat\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+94            android:exported="false" >
+94-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jonat\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+95            <meta-data
+95-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jonat\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+96                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+96-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jonat\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+97                android:value="androidx.startup" />
+97-->[androidx.emoji2:emoji2:1.0.0] C:\Users\jonat\.gradle\caches\transforms-3\0c8b21db498ae6b6ba22706b7f0dbd1b\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+98            <meta-data
+98-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jonat\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+99                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+99-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jonat\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+100                android:value="androidx.startup" />
+100-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\jonat\.gradle\caches\transforms-3\a889c36c21c1e2bc116f811fb6c47330\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+101        </provider>
+102    </application>
+103
+104</manifest>

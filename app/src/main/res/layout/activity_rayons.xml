@@ -15,13 +15,26 @@
         android:id="@+id/testBoissons"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Test Boissons"
+        android:text="Boissons"
         android:height="16sp"/>
     <Button
         android:id="@+id/testFromages"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Test Fromages"
+        android:text="Fromages"
+        android:height="16sp"/>
+    <Button
+        android:id="@+id/testSurgele"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Surgelés"
+        android:height="16sp"/>
+
+    <Button
+        android:id="@+id/testSauce"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sauce"
         android:height="16sp"/>
 
     <androidx.recyclerview.widget.RecyclerView

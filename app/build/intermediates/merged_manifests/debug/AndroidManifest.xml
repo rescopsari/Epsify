@@ -24,10 +24,18 @@
         android:testOnly="true"
         android:theme="@style/Theme.Epsify" >
         <activity
+            android:name="com.example.epsify.SaucesActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.epsify.SurgeleActivity"
+            android:exported="false" /> <!-- <activity -->
+        <!-- android:name=".ProductActivity" -->
+        <!-- android:exported="false" /> -->
+        <activity
             android:name="com.example.epsify.FromagesActivity"
             android:exported="false" />
         <activity
-            android:name="com.example.epsify.BoissonsActivity"
+            android:name="com.example.epsify.ProductsActivity"
             android:exported="false" />
         <activity
             android:name="com.example.epsify.RayonsActivity"

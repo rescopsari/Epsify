@@ -1,4 +1,4 @@
-#Sat Jan 01 03:21:17 CET 2022
+#Sun Jan 02 19:18:42 CET 2022
 base.2=C\:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
 path.2=9/classes.dex
 base.1=C\:\\Users\\jonat\\Desktop\\projet-android-exam\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex

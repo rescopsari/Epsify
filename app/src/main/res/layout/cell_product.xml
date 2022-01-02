@@ -3,10 +3,15 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
-    <Button
-        android:id="@+id/textViewBoissonName"
+    <ImageView
+        android:id="@+id/imageViewProduct"
+        android:layout_gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"/>
+    <TextView
+        android:id="@+id/textViewProductDescription"
+        android:maxLength="70"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:height="16sp"/>
-
+        android:textSize="14sp"/>
 </LinearLayout>

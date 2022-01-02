@@ -12,10 +12,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Epsify">
         <activity
+            android:name=".SaucesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SurgeleActivity"
+            android:exported="false" /> <!-- <activity -->
+        <!-- android:name=".ProductActivity" -->
+        <!-- android:exported="false" /> -->
+        <activity
             android:name=".FromagesActivity"
             android:exported="false" />
         <activity
-            android:name=".BoissonsActivity"
+            android:name=".ProductsActivity"
             android:exported="false" />
         <activity
             android:name=".RayonsActivity"
